@@ -1,0 +1,24 @@
+*, *::before, *::after {box-sizing: border-box;}
+html {line-height: 1.15;font-size: 10px;font-family: sans-serif;}
+html,body {width: 100%; height: 100%; margin: 0; padding: 0;background-color: #000;color: #FFF;}
+hr {box-sizing: content-box;height: 0;overflow: visible;}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {display: block;}
+ul {margin: 0;list-style: none;}
+
+.yellow-text{color: #FFFF00;}
+
+/* Element CSS */
+#title {margin: 0; padding: 0.5rem 0px; font-family: 'Denk One', sans-serif; text-align: center;border-bottom: 1rem solid #FFF;font-size: 6.4rem;}
+#img-caption {width: 100%; text-align: center; font-size: 1.2rem; margin: 0 auto;}
+#img-div {width: 100%; margin: 0 auto;text-align: center;}
+#img-div img {display: block; max-width: 100%;height: auto;margin: 0 auto;}
+#nav {padding: 1rem 0em 0em 0em;}
+#nav ul {display: flex;justify-content: center;text-align: center;flex-direction: row;}
+#nav li {font-size: 2rem;}
+#nav a { color: #FFF;text-decoration: none;padding: 0px 1rem;}
+#nav a:hover { color: #FFFF00;}
+#content {width: 95%; margin: 0 auto;font-size: 1.6rem;}
+h2.sectionHead {padding: 0rem 0rem 0.5rem 0rem; border-bottom: 0.5rem solid #FFF;}
+#quote{width: 100%; padding: 2rem 0rem; background-color: #FFF; color: #000;text-align: center; font-size: 2rem; font-family: 'Righteous', cursive;text-transform: uppercase;}
+#backlink {background-color: #000; color: #FFF;padding: 1.5em 0em; text-align: center;}
+#backlink a {text-decoration: none; color: #FFFF00;}
