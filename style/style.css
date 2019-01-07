@@ -8,7 +8,7 @@ ul {margin: 0;list-style: none;}
 .yellow-text{color: #FFFF00;}
 
 /* Element CSS */
-#title {margin: 0; padding: 0.5rem 0px; font-family: 'Denk One', sans-serif; text-align: center;border-bottom: 1rem solid #FFF;font-size: 6.4rem;}
+#title {margin: 0; padding: 0.5rem 0px; font-family: 'Denk One', sans-serif; text-align: center;font-size: 6.4rem;}
 #img-caption {width: 100%; text-align: center; font-size: 1.2rem; margin: 0 auto;}
 #img-div {width: 100%; margin: 0 auto;text-align: center;}
 #img-div img {display: block; max-width: 100%;height: auto;margin: 0 auto;}
